@@ -1,0 +1,30 @@
+body{
+    background:lightgreen;
+    color:rgb(56, 115, 95);
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+
+#camera{
+    border:2px dashed rgb(39, 38, 38);
+    width:350px;
+    height:300px;
+}
+
+.name_of_objects{
+    color:rgb(31, 29, 29);
+}
+
+#result_object_name, #result_object_accuracy{
+color:rgb(5, 80, 45)
+}
+
+#snapshot{
+    background:rgb(114, 143, 64);
+    color:white;
+    padding:7px;
+    border-radius:5px;
+    border-width:0px;
+}
